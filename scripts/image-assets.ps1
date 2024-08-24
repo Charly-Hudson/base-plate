@@ -1,1 +1,0 @@
-git fetch https://github.com/Charly-Hudson/base-plate/tree/main/images/webp.git
