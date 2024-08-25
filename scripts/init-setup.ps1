@@ -23,10 +23,10 @@ Write-Host "|_____________________|"
 
 echo > assets/styles/$componentType.css "*{" "    padding:0;" "    margin:0;" "}"
 
-Write-Host "_______________________"
-Write-Host "|                     |"
-Write-Host "| Installing Prettier |"
-Write-Host "|_____________________|"
+# Write-Host "_______________________"
+# Write-Host "|                     |"
+# Write-Host "| Installing Prettier |"
+# Write-Host "|_____________________|"
 
 # npm install -g npm
 # npm install prettier
