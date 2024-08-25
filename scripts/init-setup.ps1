@@ -28,12 +28,12 @@ Write-Host "|                     |"
 Write-Host "| Installing Prettier |"
 Write-Host "|_____________________|"
 
-npm update
-npm install prettier
+# npm install -g npm
+# npm install prettier
 
 Write-Host "--------------------"
 Write-Host "$componentType.css"
 Write-Host "$componentType.html"
-Write-Host "Prettier Installed"
+# Write-Host "Prettier Installed"
 Write-Host "Setup Done"
 Write-Host "--------------------"
